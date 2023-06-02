@@ -10,4 +10,7 @@ By including more terms in the Fourier series expansion, we can achieve a closer
 ![For n = 300](/images/Fourier-300-500.png)
 ![For all](/images/all-plot.png)
 
+# Conclusion:
+It is very clear from the output waveform that we can achieve approximation of any periodic waveform as the infinite sum of sine and cosine waves.
+
 
